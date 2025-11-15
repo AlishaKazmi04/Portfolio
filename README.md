@@ -25,7 +25,8 @@
 -  **Email:** [alishakazmi04@gmail.com]    
 -  **LeetCode:** [https://leetcode.com/u/Alisha_Kazmi/]  
 -  **HackerRank:** [https://www.hackerrank.com/profile/alishakazmi04]  
-
+-  **Project:** [https://github.com/AlishaKazmi04/House_Price_Prediction]
+  
 ---
 
  *“Code. Learn. Build. Repeat.”*
